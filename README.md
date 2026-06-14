@@ -1,6 +1,7 @@
 # assignment_6
 <img width="540" height="1200" alt="image" src="https://github.com/user-attachments/assets/52f9ef4e-a773-4aeb-a103-26f044e9db1f" />
-<img width="540" height="1200" alt="image" src="https://github.com/user-attachments/assets/c5b0ce33-d066-4fc5-a2a1-890b4e5eece8" />
+<img width="540" height="1200" alt="image" src="https://github.com/user-attachments/assets/7d3028a7-9a4e-4af8-a306-e386e671bb35" />
+
 
 
 A new Flutter project.
